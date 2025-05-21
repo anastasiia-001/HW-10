@@ -1,0 +1,206 @@
+    1  git--version
+    2  git--version
+    3  git-version
+    4  git__version
+    5  man ls
+    6  ls
+    7  clear
+    8  cd
+    9  cd Desktop
+   10  cd Desctop
+   11  ls
+   12  sd Desktop
+   13  cd..
+   14  ls
+   15  sd..
+   16  cd ..
+   17  ls
+   18  sd \\nsd Desktop ls
+   19  sd 
+   20  cd..
+   21  pwd
+   22  cd Desktop
+   23  mkdir Lesson
+   24  mkdir Lesson2
+   25  ls
+   26  touch empty.txt
+   27  ls
+   28  vim empty.txt
+   29  cd desltop
+   30  vim empty.txp
+   31  cd Desktop
+   32  vim empty.txt
+   33  cd Desktop
+   34  vim empty.txt
+   35  cd Desktop
+   36  vim empty.txt
+   37  cd Desktop
+   38  nano empty.txt
+   39  cat empty.txt
+   40  cp empty.txt
+   41  pwd
+   42  cp /Users/anastasiafesik/Desktop\n empty.txt
+   43  pwd
+   44  cp /Users/anastasiafesik/Desktop\n empty.txt 
+   45  cp /Users/anastasiafesik/Desktop/empty.txt
+   46  pwd
+   47  cp /Users/anastasiafesik/Desktop/empty.txt /Users/anastasiafesik/Downloads
+   48  mv /Users/anastasiafesik/Desktop/2empty.txt /Users/anastasiafesik/Downloads\n
+   49  mv /Users/anastasiafesik/Desktop/empty.txt /Users/anastasiafesik/Downloads\n
+   50  mv /Users/anastasiafesik/Downloads/empty.txt /Users/anastasiafesik/Desktop\n
+   51  rm empty.txt
+   52  ping google.com
+   53  date
+   54  system_profiler
+   55  clear
+   56  df-h
+   57  df -h
+   58  cles
+   59  clear
+   60  ifconfig
+   61  whoami
+   62  cd Desktop
+   63  touch test.txt
+   64  chmod 777 test.txt
+   65  clead
+   66  clear
+   67  cd GIT
+   68  git cjnfig --global user.name "Anastasiia Fesyk"
+   69  git config --global user.name "Anastasiia Fesyk"\n
+   70  git config --global user.email.com "nastya.nasya.ns@ukr.net"\n
+   71  git clone https://github.com/anastasiia-001/Lesson3.1.git
+   72  git status
+   73  cd Lesson3.1 git status
+   74  cd Lesson3.1
+   75  git status
+   76  touch New.txt
+   77  git status
+   78  git add New.txt
+   79  git status
+   80  git commit -m "New file created"
+   81  git status
+   82  git log
+   83  git branch
+   84  git checkout -b new_branch
+   85  git branch
+   86  git checkout main
+   87  git checkout new_branch
+   88  nano New1.txt
+   89  git status
+   90  nano New1.txt
+   91  git merge new_branch
+   92  git branch
+   93  git status
+   94  git commit
+   95  git checkout new_branch
+   96  git merge main
+   97  git status
+   98  git commit
+   99  git status
+  100  git add New.txt
+  101  git status
+  102  git add New1.txt
+  103  git status
+  104  git commit -m "New modified"
+  105  clear
+  106  cd Desktop
+  107  cd Desktop
+  108  cd ..Desktop
+  109  cd Desktop
+  110  cd ~/Desktop
+  111  cd lesson
+  112  git config --global user.name "Anastasiia Fesyk"
+  113  git config --global user.email "nastya.nasya.ns@ukr.net"
+  114  \ngit clone https://github.com/anastasiia-001/HW_10?tab=readme-ov-file#hw_10\n
+  115  git clone https://github.com/anastasiia-001/HW_10?tab=readme-ov-file#hw_10\n
+  116  git clone https://github.com/anastasiia-001/HW_10.git
+  117  cd HM_10
+  118  cd ~/HM_10
+  119  cd HW_10
+  120  touch text_ignore.txt
+  121  echo "text_ignore.txt" >> .gitignore
+  122  touch text_ignore.txt
+  123  git status
+  124  git add 
+  125  git add 
+  126  git add
+  127  y
+  128  git add
+  129  clear
+  130  cd Desktop
+  131  cd ~/Desktop
+  132  cd Lesson2
+  133  git clone https://github.com/anastasiia-001/HW_10.git
+  134  touch text_ignore.txt
+  135  delete text_ignore.txt
+  136  rm text_ignore.txt
+  137  cd HW_10
+  138  touch ext_ignore.txt
+  139  git status
+  140  git add
+  141  commit
+  142  echo "text_ignore.txt" >> .gitignore
+  143  git status
+  144  git rm --cached text_ignore.txt
+  145  git add
+  146  git commit -m "Оновлено .gitignore, додано text_ignore.txt до списку ігнорування"
+  147  touch main_test.txt
+  148  git add
+  149  git add
+  150  git commit -m "ok"
+  151  git checkout -b develop
+  152  git main
+  153  git checkout develop
+  154  touch develop_test.txt
+  155  git commit -m "Фіксація поточних змін перед редагуванням develop_test.txt"
+  156  git status
+  157  git add
+  158  git commit -m "Додано рядок 'just a small change' у develop_test.txt"
+  159  git checkout main
+  160  git merge develop
+  161  git log --oneline --graph --decorate
+  162  history 0 > command_list.csv
+  163  git add
+  164  git commit -m "Підготовка змін для пушу"
+  165  git push
+  166  git push origin develop
+  167  git log -1
+  168  git push origin develop
+  169  git push origin develop
+  170  git push origin develop
+  171  clear
+  172  cd newOne
+  173  clear
+  174  cd ~/Desktop
+  175  cd newOne
+  176  -c && rm ~/.bash_history
+  177  rm ~/.bash_history
+  178  git config --global user.name "Nastya.NS"
+  179  git config --global user.email "nastya.aa@ukr.net"
+  180  git config --global --list
+  181  git clone https://github.com/anastasiia-001/HW-10.git
+  182  cd HW-10
+  183  touch text_ignore.txt
+  184  echo "text_ignore.txt" >> .gitignore
+  185  git status
+  186  git rm --cached text_ignore.txt
+  187  git add
+  188  git commit -m "Додано text_ignore.txt до .gitignore"
+  189  git add .gitignore
+  190  git commit -m "Додано text_ignore.txt до .gitignore"
+  191  touch main_test.txt
+  192  git add
+  193  git commit -m "Створено порожній файл main_test.txt"
+  194  git add .
+  195  git commit -m "Створено порожній файл main_test.txt"
+  196  git checkout -b develop
+  197  touch develop_test.txt
+  198  git add .
+  199  git commit -m "Створено порожній файл develop_test.txt"
+  200  echo "just a small change" >> develop_test.txt
+  201  git status
+  202  git add .
+  203  git commit -m "Додано текст 'just a small change' у develop_test.txt"
+  204  git checkout main
+  205  git merge develop
+  206  git log --oneline
